@@ -1,0 +1,9 @@
+.lirr-schedule {
+  text-align: left;
+}
+.error {
+  color: #c00;
+}
+.warning {
+  color: lightyellow;
+}
