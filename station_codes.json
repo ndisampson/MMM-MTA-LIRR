@@ -1,0 +1,506 @@
+{
+  "LIC": {
+    "name": "Long Island City",
+    "branch": "City Zone Branch"
+  },
+  "HPA": {
+    "name": "Hunterspoint Avenue",
+    "branch": "City Zone Branch"
+  },
+  "NYK": {
+    "name": "Penn Station",
+    "branch": "City Zone Branch"
+  },
+  "WDD": {
+    "name": "Woodside",
+    "branch": "City Zone Branch"
+  },
+  "FHL": {
+    "name": "Forest Hills",
+    "branch": "City Zone Branch"
+  },
+  "KGN": {
+    "name": "Kew Gardens",
+    "branch": "City Zone Branch"
+  },
+  "ATL": {
+    "name": "Atlantic Terminal",
+    "branch": "City Zone Branch"
+  },
+  "NAV": {
+    "name": "Nostrand Avenue",
+    "branch": "City Zone Branch"
+  },
+  "ENY": {
+    "name": "East New York",
+    "branch": "City Zone Branch"
+  },
+  "JAM": {
+    "name": "Jamaica",
+    "branch": "City Zone Branch"
+  },
+  "SSM": {
+    "name": "Mets-Willets Point",
+    "branch": "Port Washington Branch"
+  },
+  "FLS": {
+    "name": "Flushing Main Street",
+    "branch": "Port Washington Branch"
+  },
+  "MHL": {
+    "name": "Murray Hill",
+    "branch": "Port Washington Branch"
+  },
+  "BDY": {
+    "name": "Broadway",
+    "branch": "Port Washington Branch"
+  },
+  "ADL": {
+    "name": "Auburndale",
+    "branch": "Port Washington Branch"
+  },
+  "BSD": {
+    "name": "Bayside",
+    "branch": "Port Washington Branch"
+  },
+  "DGL": {
+    "name": "Douglaston",
+    "branch": "Port Washington Branch"
+  },
+  "LNK": {
+    "name": "Little Neck",
+    "branch": "Port Washington Branch"
+  },
+  "GNK": {
+    "name": "Great Neck",
+    "branch": "Port Washington Branch"
+  },
+  "MHT": {
+    "name": "Manhasset",
+    "branch": "Port Washington Branch"
+  },
+  "PDM": {
+    "name": "Plandome",
+    "branch": "Port Washington Branch"
+  },
+  "PWS": {
+    "name": "Port Washington",
+    "branch": "Port Washington Branch"
+  },
+  "HOL": {
+    "name": "Hollis",
+    "branch": "Hempstead Branch"
+  },
+  "QVG": {
+    "name": "Queens Village",
+    "branch": "Hempstead Branch"
+  },
+  "BRT": {
+    "name": "Belmont",
+    "branch": "Hempstead Branch"
+  },
+  "BRS": {
+    "name": "Bellerose",
+    "branch": "Hempstead Branch"
+  },
+  "FPK": {
+    "name": "Floral Park",
+    "branch": "Hempstead Branch"
+  },
+  "SMR": {
+    "name": "Stewart Manor",
+    "branch": "Hempstead Branch"
+  },
+  "NBD": {
+    "name": "Nassau Boulevard",
+    "branch": "Hempstead Branch"
+  },
+  "GCY": {
+    "name": "Garden City",
+    "branch": "Hempstead Branch"
+  },
+  "CLP": {
+    "name": "Country Life Press",
+    "branch": "Hempstead Branch"
+  },
+  "HEM": {
+    "name": "Hempstead",
+    "branch": "Hempstead Branch"
+  },
+  "NHP": {
+    "name": "New Hyde Park",
+    "branch": "Port Jefferson Branch"
+  },
+  "MAV": {
+    "name": "Merillon Avenue",
+    "branch": "Port Jefferson Branch"
+  },
+  "MIN": {
+    "name": "Mineola",
+    "branch": "Port Jefferson Branch"
+  },
+  "EWN": {
+    "name": "East Williston",
+    "branch": "Oyster Bay Branch"
+  },
+  "ABT": {
+    "name": "Albertson",
+    "branch": "Oyster Bay Branch"
+  },
+  "RSN": {
+    "name": "Roslyn",
+    "branch": "Oyster Bay Branch"
+  },
+  "GVL": {
+    "name": "Greenvale",
+    "branch": "Oyster Bay Branch"
+  },
+  "GHD": {
+    "name": "Glen Head",
+    "branch": "Oyster Bay Branch"
+  },
+  "SCF": {
+    "name": "Sea Cliff",
+    "branch": "Oyster Bay Branch"
+  },
+  "GST": {
+    "name": "Glen Street",
+    "branch": "Oyster Bay Branch"
+  },
+  "GCV": {
+    "name": "Glen Cove",
+    "branch": "Oyster Bay Branch"
+  },
+  "LVL": {
+    "name": "Locust Valley",
+    "branch": "Oyster Bay Branch"
+  },
+  "OBY": {
+    "name": "Oyster Bay",
+    "branch": "Oyster Bay Branch"
+  },
+  "CPL": {
+    "name": "Carle Place",
+    "branch": "Port Jefferson Branch"
+  },
+  "WBY": {
+    "name": "Westbury",
+    "branch": "Port Jefferson Branch"
+  },
+  "HVL": {
+    "name": "Hicksville",
+    "branch": "Port Jefferson Branch"
+  },
+  "SYT": {
+    "name": "Syosset",
+    "branch": "Port Jefferson Branch"
+  },
+  "CSH": {
+    "name": "Cold Spring Harbor",
+    "branch": "Port Jefferson Branch"
+  },
+  "HUN": {
+    "name": "Huntington",
+    "branch": "Port Jefferson Branch"
+  },
+  "GWN": {
+    "name": "Greenlawn",
+    "branch": "Port Jefferson Branch"
+  },
+  "NPT": {
+    "name": "Northport",
+    "branch": "Port Jefferson Branch"
+  },
+  "KPK": {
+    "name": "Kings Park",
+    "branch": "Port Jefferson Branch"
+  },
+  "STN": {
+    "name": "Smithtown",
+    "branch": "Port Jefferson Branch"
+  },
+  "SJM": {
+    "name": "St. James",
+    "branch": "Port Jefferson Branch"
+  },
+  "BK": {
+    "name": "Stony Brook",
+    "branch": "Port Jefferson Branch"
+  },
+  "PJN": {
+    "name": "Port Jefferson",
+    "branch": "Port Jefferson Branch"
+  },
+  "BPG": {
+    "name": "Bethpage",
+    "branch": "Ronkonkoma Branch"
+  },
+  "FMD": {
+    "name": "Farmingdale",
+    "branch": "Ronkonkoma Branch"
+  },
+  "PLN": {
+    "name": "Pinelawn",
+    "branch": "Ronkonkoma Branch"
+  },
+  "WYD": {
+    "name": "Wyandanch",
+    "branch": "Ronkonkoma Branch"
+  },
+  "DPK": {
+    "name": "Deer Park",
+    "branch": "Ronkonkoma Branch"
+  },
+  "BWD": {
+    "name": "Brentwood",
+    "branch": "Ronkonkoma Branch"
+  },
+  "CI": {
+    "name": "Central Islip",
+    "branch": "Ronkonkoma Branch"
+  },
+  "RON": {
+    "name": "Ronkonkoma",
+    "branch": "Ronkonkoma Branch"
+  },
+  "MFD": {
+    "name": "Medford",
+    "branch": "Ronkonkoma Branch"
+  },
+  "YPK": {
+    "name": "Yaphank",
+    "branch": "Ronkonkoma Branch"
+  },
+  "RHD": {
+    "name": "Riverhead",
+    "branch": "Ronkonkoma Branch"
+  },
+  "MAK": {
+    "name": "Mattituck",
+    "branch": "Ronkonkoma Branch"
+  },
+  "SHD": {
+    "name": "Southold",
+    "branch": "Ronkonkoma Branch"
+  },
+  "GPT": {
+    "name": "Greenport",
+    "branch": "Ronkonkoma Branch"
+  },
+  "SAB": {
+    "name": "St. Albans",
+    "branch": "West Hempstead Branch"
+  },
+  "LMR": {
+    "name": "Locust Manor",
+    "branch": "Far Rockaway Branch"
+  },
+  "LTN": {
+    "name": "Laurelton",
+    "branch": "Far Rockaway Branch"
+  },
+  "ROS": {
+    "name": "Rosedale",
+    "branch": "Far Rockaway Branch"
+  },
+  "VSM": {
+    "name": "Valley Stream",
+    "branch": "Far Rockaway Branch"
+  },
+  "WWD": {
+    "name": "Westwood",
+    "branch": "West Hempstead Branch"
+  },
+  "MVN": {
+    "name": "Malverne",
+    "branch": "West Hempstead Branch"
+  },
+  "LVW": {
+    "name": "Lakeview",
+    "branch": "West Hempstead Branch"
+  },
+  "HGN": {
+    "name": "Hempstead Gardens",
+    "branch": "West Hempstead Branch"
+  },
+  "WHD": {
+    "name": "West Hempstead",
+    "branch": "West Hempstead Branch"
+  },
+  "GBN": {
+    "name": "Gibson",
+    "branch": "Far Rockaway Branch"
+  },
+  "HWT": {
+    "name": "Hewlett",
+    "branch": "Far Rockaway Branch"
+  },
+  "WMR": {
+    "name": "Woodmere",
+    "branch": "Far Rockaway Branch"
+  },
+  "CHT": {
+    "name": "Cedarhurst",
+    "branch": "Far Rockaway Branch"
+  },
+  "LCE": {
+    "name": "Lawrence",
+    "branch": "Far Rockaway Branch"
+  },
+  "IWD": {
+    "name": "Inwood",
+    "branch": "Far Rockaway Branch"
+  },
+  "FRY": {
+    "name": "Far Rockaway",
+    "branch": "Far Rockaway Branch"
+  },
+  "LYN": {
+    "name": "Lynbrook",
+    "branch": "Long Beach Branch"
+  },
+  "CAV": {
+    "name": "Centre Avenue",
+    "branch": "Long Beach Branch"
+  },
+  "ERY": {
+    "name": "East Rockaway",
+    "branch": "Long Beach Branch"
+  },
+  "ODE": {
+    "name": "Oceanside",
+    "branch": "Long Beach Branch"
+  },
+  "IPK": {
+    "name": "Island Park",
+    "branch": "Long Beach Branch"
+  },
+  "LBH": {
+    "name": "Long Beach",
+    "branch": "Long Beach Branch"
+  },
+  "RVC": {
+    "name": "Rockville Centre",
+    "branch": "Babylon Branch"
+  },
+  "BWN": {
+    "name": "Baldwin",
+    "branch": "Babylon Branch"
+  },
+  "FPT": {
+    "name": "Freeport",
+    "branch": "Babylon Branch"
+  },
+  "MRK": {
+    "name": "Merrick",
+    "branch": "Babylon Branch"
+  },
+  "BMR": {
+    "name": "Bellmore",
+    "branch": "Babylon Branch"
+  },
+  "WGH": {
+    "name": "Wantagh",
+    "branch": "Babylon Branch"
+  },
+  "SFD": {
+    "name": "Seaford",
+    "branch": "Babylon Branch"
+  },
+  "MQA": {
+    "name": "Massapequa",
+    "branch": "Babylon Branch"
+  },
+  "MPK": {
+    "name": "Massapequa Park",
+    "branch": "Babylon Branch"
+  },
+  "AVL": {
+    "name": "Amityville",
+    "branch": "Babylon Branch"
+  },
+  "CPG": {
+    "name": "Copiague",
+    "branch": "Babylon Branch"
+  },
+  "LHT": {
+    "name": "Lindenhurst",
+    "branch": "Babylon Branch"
+  },
+  "BTA": {
+    "name": "Babylon",
+    "branch": "Babylon Branch"
+  },
+  "BSR": {
+    "name": "Bay Shore",
+    "branch": "Montauk Branch"
+  },
+  "ISP": {
+    "name": "Islip",
+    "branch": "Montauk Branch"
+  },
+  "GRV": {
+    "name": "Great River",
+    "branch": "Montauk Branch"
+  },
+  "ODL": {
+    "name": "Oakdale",
+    "branch": "Montauk Branch"
+  },
+  "SVL": {
+    "name": "Sayville",
+    "branch": "Montauk Branch"
+  },
+  "PGE": {
+    "name": "Patchogue",
+    "branch": "Montauk Branch"
+  },
+  "BPT": {
+    "name": "Bellport",
+    "branch": "Montauk Branch"
+  },
+  "MSY": {
+    "name": "Mastic Shirley",
+    "branch": "Montauk Branch"
+  },
+  "SPK": {
+    "name": "Speonk",
+    "branch": "Montauk Branch"
+  },
+  "WHN": {
+    "name": "Westhampton",
+    "branch": "Montauk Branch"
+  },
+  "HBY": {
+    "name": "Hampton Bays",
+    "branch": "Montauk Branch"
+  },
+  "SHC": {
+    "name": "Shinnecock",
+    "branch": "Montauk Branch"
+  },
+  "SHN": {
+    "name": "Southampton",
+    "branch": "Montauk Branch"
+  },
+  "BHN": {
+    "name": "Bridgehampton",
+    "branch": "Montauk Branch"
+  },
+  "EHN": {
+    "name": "East Hampton",
+    "branch": "Montauk Branch"
+  },
+  "AGT": {
+    "name": "Amagansett",
+    "branch": "Montauk Branch"
+  },
+  "MTK": {
+    "name": "Montauk",
+    "branch": "Montauk Branch"
+  },
+  "null": {
+    "name": "Meadowlands",
+    "branch": "City Zone Branch"
+  }
+}
