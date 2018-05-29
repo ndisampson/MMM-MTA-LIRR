@@ -9,17 +9,22 @@ module.exports = NodeHelper.create({
 
   getData: function() {
     const self = this;
-    const url = `${this.config.scheduleUrl}?loc=${this.config.station}`
-    console.log("FETCHING ", url);
+    const urls = {
+      "SCHEDULE_DATA": `${this.config.scheduleUrl}?loc=${this.config.station}`,
+      "STATUS_DATA": this.config.statusUrl
+    }
 
     // get status information
-    fetch(url)
-      .then(res => res.json())
-      .then(statusInfo => self.sendSocketNotification("DATA", statusInfo))
-      .catch(error => {
-        console.log(error);
-        self.sendSocketNotification("ERROR", error)
-      });
+    Object.keys(urls).map(req => {
+      console.log("FETCHING ", urls[req]);
+      fetch(urls[req])
+        .then(res => res.json())
+        .then(statusInfo => self.sendSocketNotification(req, statusInfo))
+        .catch(error => {
+          console.log(error);
+          self.sendSocketNotification("ERROR", error)
+        });
+    })
   },
 
   socketNotificationReceived: function(notification, payload) {

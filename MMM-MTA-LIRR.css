@@ -1,9 +1,14 @@
 .lirr-schedule {
-  text-align: left;
+  /*text-align: left;*/
 }
-.error {
+.lirr-error {
   color: #c00;
 }
-.warning {
-  color: lightyellow;
+.lirr-delay {
+  color: yellow;
+}
+.lirr-status {
+  margin-top: 10px;
+  font-size: .7em;
+  color: #0c0;
 }
